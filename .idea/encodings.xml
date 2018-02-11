@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DemoJS" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoJS/demoJS-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoJS/demoJS-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoJS/demoJS-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoJS/demoJS-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoJS/util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demojs-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demojs-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demojs-util" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/demojs-util" />
+    <file type="web" url="file://$PROJECT_DIR$/DemoJS/demoJS-dao" />
+    <file type="web" url="file://$PROJECT_DIR$/DemoJS/demoJS-service" />
+    <file type="web" url="file://$PROJECT_DIR$/DemoJS/demoJS-util" />
+    <file type="web" url="file://$PROJECT_DIR$/DemoJS/demoJS-web" />
+    <file type="web" url="file://$PROJECT_DIR$/DemoJS/util" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/DemoJS/pom.xml" />
+        <option value="$PROJECT_DIR$/DemoJS/demoJS-util/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/demojs-util/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

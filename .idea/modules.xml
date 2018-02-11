@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoJS/DemoJS.iml" filepath="$PROJECT_DIR$/DemoJS/DemoJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoJS/demoJS-dao/demoJS-dao.iml" filepath="$PROJECT_DIR$/DemoJS/demoJS-dao/demoJS-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoJS/demoJS-service/demoJS-service.iml" filepath="$PROJECT_DIR$/DemoJS/demoJS-service/demoJS-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoJS/demoJS-util/demoJS-util.iml" filepath="$PROJECT_DIR$/DemoJS/demoJS-util/demoJS-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoJS/demoJS-web/demoJS-web.iml" filepath="$PROJECT_DIR$/DemoJS/demoJS-web/demoJS-web.iml" />
+    </modules>
+  </component>
+</project>

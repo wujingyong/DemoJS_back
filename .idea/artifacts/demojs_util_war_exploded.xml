@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="demoJS-util:war exploded">
+    <output-path>$PROJECT_DIR$/DemoJS/demoJS-util/target/util</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="demoJS-util" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/DemoJS/demoJS-util/target/util/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="demoJS-util/web/Web" />
+    </root>
+  </artifact>
+</component>
