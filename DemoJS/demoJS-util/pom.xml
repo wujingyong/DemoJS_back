@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>util</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>Maven Portlet Archetype</name>
     <url>http://maven.apache.org</url>
     <dependencies>
